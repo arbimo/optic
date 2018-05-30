@@ -47,6 +47,7 @@
 #include <limits>
 
 #include <sys/times.h>
+#include <unistd.h>
 
 #include "solver.h"
 
